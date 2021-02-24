@@ -1,5 +1,5 @@
 function moreChanges() {
-    console.log("We have more changes";)
+    console.log("We have more changes");
 }
 
 function init() {
@@ -8,3 +8,4 @@ function init() {
 }
 
 init ();
+moreChanges();
